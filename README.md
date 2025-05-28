@@ -1,7 +1,7 @@
 # 🌟 Eshani's Interactive 3D Portfolio
 
 <div align="center">
-  <img src="./public/images/profile_pic.webp" alt="Portfolio Preview" width="100%" style="border-radius: 10px;">
+  <img src="(https://res.cloudinary.com/dporz9gz6/image/upload/v1748455000/Screenshot_2025-05-28_191957_amdib5.png)" alt="Portfolio Preview" width="100%" style="border-radius: 10px;">
 
   [![Vercel](https://img.shields.io/badge/deployed_on-vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com)
   [![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js)](https://threejs.org)
