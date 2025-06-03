@@ -1,5 +1,6 @@
 # 🌟 Eshani's Interactive 3D Portfolio
 
+
 <div align="center">
   <img src="https://res.cloudinary.com/dporz9gz6/image/upload/v1748455000/Screenshot_2025-05-28_191957_amdib5.png" alt="Portfolio Preview" width="100%" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
   
